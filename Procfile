@@ -1,1 +1,1 @@
-web: python run.py
+server: python run.py
