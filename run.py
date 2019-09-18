@@ -7,7 +7,7 @@ from telegram.ext import Updater, MessageHandler, Filters
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN')
+TOKEN = os.environ.get('928105941:AAGJq3A3KEJpg0HSwhThWANeJ_MgQkSIYbE')
 FIND = 'music.youtube.com'
 REPLACE = 'youtube.com'
 
